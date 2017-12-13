@@ -1,0 +1,1 @@
+const Header = (props) => {props.children};
